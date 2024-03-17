@@ -10,6 +10,5 @@
         "streamFormat": "mp4",
         "Logo": "https://placeholdit.imgix.net/~text?txtsize=33&txt=channel+logo&w=267&h=150",
         "Stream": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-    },
-    // Add more channel objects as needed
+    }
 ]
