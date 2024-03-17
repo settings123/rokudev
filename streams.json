@@ -1,0 +1,15 @@
+[
+    {
+        "Title": "Lakers",
+        "streamFormat": "hls",
+        "Logo": "https://i.pinimg.com/736x/c0/ec/d1/c0ecd16750c12002cd8bb4295be43063.jpg",
+        "Stream": "https://webuit.onlinehdhls.ru/lb/wikib1tr/index.m3u8"
+    },
+    {
+        "Title": "Pelicans",
+        "streamFormat": "mp4",
+        "Logo": "https://placeholdit.imgix.net/~text?txtsize=33&txt=channel+logo&w=267&h=150",
+        "Stream": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+    // Add more channel objects as needed
+]
