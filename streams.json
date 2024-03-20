@@ -17,7 +17,6 @@
 			"shortDescription": "HELLO SHORT DESCRLearn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
 			"title": "Streaming overview",
 			"content": {
-				"duration": 100,
 				"videos": [{
 					"videoType": "HLS",
 					"url": "https://i.mjh.nz/Roku/bc932f13c31e542db6e3e6247e7131bc.m3u8",
@@ -41,10 +40,9 @@
 			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
 			"title": "Roku Development Overview",
 			"content": {
-				"duration": 248,
 				"videos": [{
-					"videoType": "MP4",
-					"url": "https://image.roku.com/ZHZscHItMTc2/roku-overview.mp4",
+					"videoType": "HLS",
+					"url": "https://i.mjh.nz/Roku/899afcc0886f50c8936f1548e461b811.m3u8",
 					"quality": "HD"
 				}],
 				"language": "en-us",
