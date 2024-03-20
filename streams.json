@@ -1,14 +1,54 @@
-[
-    {
-        "Title": "Dallas",
-        "streamFormat": "hls",
-        "Logo": "https://i.pinimg.com/736x/c0/ec/d1/c0ecd16750c12002cd8bb4295be43063.jpg",
-        "Stream": "https://pl.asfghjjk4.shop/playlist/20655/redi512.kfitee.space/caxi.m3u8"
-    },
-    {
-        "Title": "Timberwolves",
-        "streamFormat": "mp4",
-        "Logo": "https://placeholdit.imgix.net/~text?txtsize=33&txt=channel+logo&w=267&h=150",
-        "Stream": "https://rdi756.bcdd.space/playlist/20632/redi2.wqqassd114j.shop/caxi.m3u8"
-    }
-]
+{
+	"providerName": "Llama Streams",
+	"language": "en-US",
+	"lastUpdated": "2024-03-19T02:01:00+02:00",
+	"shortFormVideos": [
+	{
+			"longDescription": "Fox Sports",
+			"thumbnail": "https://images.sr.roku.com/idType/roku/context/trc/id/0fc01f1136055d89bae495ba92eff445/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1697817997944_FOXsports_Logo-monchromtic.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"sports"
+			],
+			"tags": [
+				"sports"
+			],
+			"id": "Id goes here",
+			"shortDescription": "short description of the channel",
+			"title": "Streaming overview",
+			"content": {
+				"videos": [{
+					"videoType": "hls",
+					"url": "https://i.mjh.nz/Roku/0fc01f1136055d89bae495ba92eff445.m3u8",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+
+{
+			"longDescription": "beIN SPORTS Xtra",
+			"thumbnail": "https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png",
+			"releaseDate": "2020-01-15",
+			"genres": [
+				"sports"
+			],
+			"tags": [
+				"sports"
+			],
+			"id": "Id goes here 2",
+			"shortDescription": "short description of the channel 2",
+			"title": "Streaming overview",
+			"content": {
+				"videos": [{
+					"videoType": "hls",
+					"url": "https://i.mjh.nz/Roku/bc932f13c31e542db6e3e6247e7131bc.m3u8",
+					"quality": "HD"
+				}],
+				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
+			}
+		},
+    ]
+}
