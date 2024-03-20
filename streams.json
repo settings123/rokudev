@@ -1,21 +1,12 @@
 {
 	"providerName": "Llama Streams",
-	"language": "en-US",
-	"lastUpdated": "2020-03-15T02:01:00+02:00",
-	"shortFormVideos": [
+	"streams": [
 	{
 			"longDescription": "beIN Sports",
 			"thumbnail": "https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-roku-streaming-overview",
-			"shortDescription": "HELLO SHORT DESCRLearn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
-			"title": "Streaming overview",
+			"id": "bein",
+			"shortDescription": "Live beIN Stream",
+			"title": "beIN Sports",
 			"content": {
 				"videos": [{
 					"videoType": "HLS",
@@ -23,22 +14,14 @@
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-15T02:39:11Z"
 			}
 		},
 		{
 			"longDescription": "LA Lakers",
 			"thumbnail": "https://1000logos.net/wp-content/uploads/2017/03/Los-angeles-lakers-500x313.png",
-			"releaseDate": "2020-01-15",
-			"genres": [
-				"educational"
-			],
-			"tags": [
-				"getting-started"
-			],
-			"id": "shortform-roku-development-overview",
-			"shortDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity",
-			"title": "Roku Development Overview",
+			"id": "lakers",
+			"shortDescription": "Lakers Livestream",
+			"title": "Lakers",
 			"content": {
 				"videos": [{
 					"videoType": "HLS",
@@ -46,7 +29,6 @@
 					"quality": "HD"
 				}],
 				"language": "en-us",
-				"dateAdded": "2020-01-29T02:39:11Z"
 			}
 		}
 	]
