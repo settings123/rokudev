@@ -1,10 +1,10 @@
 {
-	"providerName": "Llama Streams",
+	"providerName": "Roku Developers",
 	"language": "en-US",
 	"lastUpdated": "2020-03-15T02:01:00+02:00",
 	"shortFormVideos": [
 	{
-			"longDescription": "BeIN long description from a content delivery network (CDN) to a Roku device via a content feed",
+			"longDescription": "LONG DESCRIPTIONd from a content delivery network (CDN) to a Roku device via a content feed",
 			"thumbnail": "https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png",
 			"releaseDate": "2020-01-15",
 			"genres": [
@@ -13,20 +13,22 @@
 			"tags": [
 				"getting-started"
 			],
-			"id": "bein Sports",
-			"shortDescription": "beIN short descript here",
-			"title": "bein Sports this is a title",
+			"id": "shortform-roku-streaming-overview",
+			"shortDescription": "HELLO SHORT DESCRLearn how streaming works on the Roku platform. This video explains how content is delivered from a content delivery network (CDN) to a Roku device via a content feed",
+			"title": "Streaming overview",
 			"content": {
+				"duration": 100,
 				"videos": [{
-					"videoType": "HLS",
-					"url": "https://i.mjh.nz/Roku/bc932f13c31e542db6e3e6247e7131bc.m3u8",
+					"videoType": "MP4",
+					"url": "https://image.roku.com/ZHZscHItMTc2/roku-streaming-overview-v3.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
+				"dateAdded": "2020-01-15T02:39:11Z"
 			}
 		},
 		{
-			"longDescription": "What is the point of this lonnnnnng descr",
+			"longDescription": "Learn how Roku's rapidly growing user base makes developing for the Roku platform a viable opportunity. See how developing for the Roku platform is free and easy. There's no cost to enroll in the Roku developer program, develop channels, or publish them to the Roku Channel Store, which is Roku's app marketplace. The Roku channel UI is defined with SceneGraph, Roku's object-oriented UI XML framework, and the channel behavior is defined using BrightScript, which is Roku's scripting language.",
 			"thumbnail": "https://image.roku.com/ZHZscHItMTc2/roku-overview.jpg",
 			"releaseDate": "2020-01-15",
 			"genres": [
