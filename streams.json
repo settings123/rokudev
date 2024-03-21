@@ -1,30 +1,24 @@
 {
 	"providerName": "Llama Streams",
-	"streams": [
+	"Live Games": [
 	{
-			"longDescription": "beIN Sports",
-			"thumbnail": "https://images.sr.roku.com/idType/roku/context/trc/id/bc932f13c31e542db6e3e6247e7131bc/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1652896913644_beIN-SPORTS-XTRA_LOGO_ROKU_HUD_260x147%255B1%255D.png",
-			"id": "bein",
-			"shortDescription": "Live beIN Stream",
-			"title": "beIN Sports",
+			"title": "Orlando Magic vs New Orleans Pelicans Live Stream",
+			"thumbnail": "pkg:/images/Pelicans.png",
 			"content": {
 				"videos": [{
 					"videoType": "HLS",
-					"url": "https://i.mjh.nz/Roku/bc932f13c31e542db6e3e6247e7131bc.m3u8"
+					"url": "https://rdi756.bcdd.space/playlist/20735/jco.poiuybv.space/caxi.m3u8"
 				}]
 			}
 		},
 
-		{
-			"longDescription": "LA Lakers",
-			"thumbnail": "https://1000logos.net/wp-content/uploads/2017/03/Los-angeles-lakers-500x313.png",
-			"id": "lakers",
-			"shortDescription": "Lakers Livestream",
-			"title": "Lakers",
+			{
+			"title": "Denver Nuggets vs New York Knicks",
+			"thumbnail": "pkg:/images/Nuggets.png",
 			"content": {
 				"videos": [{
 					"videoType": "HLS",
-					"url": "https://i.mjh.nz/Roku/899afcc0886f50c8936f1548e461b811.m3u8"
+					"url": "https://i.mjh.nz/Roku/0fc01f1136055d89bae495ba92eff445.m3u8"
 				}]
 			}
 		}
