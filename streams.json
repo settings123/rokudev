@@ -1,26 +1,32 @@
 {
 	"providerName": "Llama Streams",
 	"Live Games": [
-	{
-			"title": "Fox Sports",
-			"thumbnail": "pkg:/images/Pelicans.png",
-			"content": {
-				"videos": [{
-					"videoType": "HLS",
-					"url": "https://i.mjh.nz/Roku/0fc01f1136055d89bae495ba92eff445.m3u8"
-				}]
-			}
-		},
-
-			{
-			"title": "Denver Nuggets vs New York Knicks",
-			"thumbnail": "pkg:/images/Nuggets.png",
-			"content": {
-				"videos": [{
-					"videoType": "HLS",
-					"url": "https://plll23.rjgamrky.store/playlist/20739/jcvjcks.cloudcdn5.com/caxi.m3u8"
-				}]
-			}
-		}
-	]
+    {
+      "title": "NBA Live Stream Denver Nuggets vs New York Knicks - 1Stream",
+      "videos": [
+        {
+          "videoType": "HLS",
+          "url": "https://plpl12.teujyt.space/playlist/20739/reddi11.pkjg.space/caxi.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "NBA Live Stream Phoenix Suns vs Atlanta Hawks - 1Stream",
+      "videos": [
+        {
+          "videoType": "HLS",
+          "url": "https://psls2w.aouydc.buzz/playlist/20736/redi1111vs.cloudcdn7.net/caxi.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "NBA Live Stream Dallas Mavericks vs Utah Jazz - 1Stream",
+      "videos": [
+        {
+          "videoType": "HLS",
+          "url": "https://psls2w.aouydc.buzz/playlist/20740/red111.snflsb.space/caxi.m3u8"
+        }
+      ]
+    }
+  ]
 }
