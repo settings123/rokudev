@@ -2,7 +2,7 @@
 	"providerName": "Llama Streams",
 	"Live Games": [
 	{
-			"title": Fox Sports",
+			"title": "Fox Sports",
 			"thumbnail": "pkg:/images/Pelicans.png",
 			"content": {
 				"videos": [{
@@ -18,7 +18,7 @@
 			"content": {
 				"videos": [{
 					"videoType": "HLS",
-					"url": https://plll23.rjgamrky.store/playlist/20739/jcvjcks.cloudcdn5.com/caxi.m3u8"
+					"url": "https://plll23.rjgamrky.store/playlist/20739/jcvjcks.cloudcdn5.com/caxi.m3u8"
 				}]
 			}
 		}
