@@ -2,12 +2,12 @@
   "providerName": "Llama Streams",
   "Live Games": [
     {
-      "title": "NBA Live Stream Golden State Warriors vs Indiana Pacers - 1Stream",
+      "title": "Formula 1",
       "thumbnail": "https://static.vecteezy.com/system/resources/previews/027/127/476/large_2x/nba-logo-nba-icon-transparent-free-png.png",
       "videos": [
         {
           "videoType": "HLS",
-          "url": "https://psls2w.aouydc.buzz/playlist/21480/load-playlist"
+          "url": "https://psls2w.aouydc.buzz/playlist/21480/load-playlist.m3u8"
         }
       ]
     },
