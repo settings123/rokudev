@@ -12,12 +12,12 @@
       ]
     },
     {
-      "title": "Fox Sports",
+      "title": "Sports",
       "thumbnail": "https://static.vecteezy.com/system/resources/previews/027/127/476/large_2x/nba-logo-nba-icon-transparent-free-png.png",
       "videos": [
         {
           "videoType": "HLS",
-          "url": "https://i.mjh.nz/Roku/0fc01f1136055d89bae495ba92eff445.m3u8"
+          "url": "https://i.mjh.nz/Roku/bc932f13c31e542db6e3e6247e7131bc.m3u8"
         }
       ]
     },
